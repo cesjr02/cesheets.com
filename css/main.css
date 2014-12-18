@@ -57,8 +57,9 @@ header img {
 }
 
 #skills {
-	height: 437px;
-	padding-top: 75px;	
+	height: auto;
+	padding-top: 75px;
+	padding-bottom: 90px;	
 }
 
 #featured {
@@ -198,4 +199,11 @@ nav a:hover {
 
 .tertiary_btn:hover {
 	background-color: #4ba8d2;
+}
+
+/* media query to hide featured image */
+@media (max-width: 991px) {
+  #featuredImage {
+	  display: none;
+  }
 }
