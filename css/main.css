@@ -15,7 +15,7 @@ header {
 }
 
 header img {
-	margin-bottom: 108px;
+	margin-bottom: 90px;
 }
 
 #contact {
@@ -151,7 +151,7 @@ nav a:hover {
 	padding-right: 25px;
 	text-decoration: none;
 	text-align: center;
-	margin-top: 75px;
+	margin-top: 40px;
 }
 
 .primary_btn:hover {
@@ -184,7 +184,7 @@ nav a:hover {
 	padding-right: 25px;
 	text-decoration: none;
 	text-align: center;
-	margin-top: 75px;
+	margin-top: 40px;
 }
 
 .secondary_btn:hover {
@@ -195,6 +195,19 @@ nav a:hover {
 /* media query to hide featured image */
 @media (max-width: 991px) {
   #featuredImage {
+	  display: none;
+  }
+}
+
+
+@media (max-width: 444px) {
+  #contact img {
+	  width: 112px;
+  }
+}
+
+@media (max-width: 767px) {
+  .secondary_btn {
 	  display: none;
   }
 }
