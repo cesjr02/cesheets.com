@@ -119,12 +119,8 @@ a:hover {
 	text-decoration: none;
 }
 
-.active {
-	text-decoration: underline;
-}
-
 nav a:hover {
-	text-decoration: underline;
+	text-decoration: underline !important;
 }
 
 
@@ -193,39 +189,6 @@ nav a:hover {
 
 .secondary_btn:hover {
 	background-color: #000000;
-}
-
-.tertiary_btn {
-	background-color: #7cccf0;
-	-webkit-border-top-left-radius: 2px;
-	-moz-border-radius-topleft: 2px;
-	border-top-left-radius: 2px;
-	-webkit-border-top-right-radius: 2px;
-	-moz-border-radius-topright: 2px;
-	border-top-right-radius: 2px;
-	-webkit-border-bottom-right-radius: 2px;
-	-moz-border-radius-bottomright: 2px;
-	border-bottom-right-radius: 2px;
-	-webkit-border-bottom-left-radius: 2px;
-	-moz-border-radius-bottomleft: 2px;
-	border-bottom-left-radius: 2px;
-	text-indent: 0;
-	display: inline-block;
-	color: #ffffff;
-	font-size: 15px;
-	font-weight: 300;
-	font-style: normal;
-	height: 46px;
-	line-height: 46px;
-	padding-left: 25px;
-	padding-right: 25px;
-	text-decoration: none;
-	text-align: center;
-	margin-top: 75px;
-}
-
-.tertiary_btn:hover {
-	background-color: #4ba8d2;
 }
 
 
