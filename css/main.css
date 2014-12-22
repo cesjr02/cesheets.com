@@ -69,16 +69,13 @@ footer a:hover {
 }
 
 #portfolio {
-	height: 697px;
+	height: auto;
 	background-color: #e6e6e6;
 }
 
 #portfolioText {
-	padding-top: 114px;
-}
-
-#portfolioImage {
-	padding-top: 10px;
+	padding-top: 75px;
+	padding-bottom: 90px;
 }
 
 #about {
