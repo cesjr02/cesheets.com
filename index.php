@@ -108,9 +108,9 @@
 	<div id="contact" class="container">
 		<h1 class="contact">Contact.</h1>
 		<p>Want to know more? I'd love to hear from you.</p>
-		<a href="mailto:cesjr02@gmail.com"><img src="images/contact/email.png" alt="email icon"></a>
-		<a href="https://twitter.com/cesheets"><img src="images/contact/twitter.png" alt="twitter icon"></a>
-		<a href="http://www.linkedin.com/pub/charles-sheets-jr/69/365/2b3"><img src="images/contact/linkedin.png" alt="linkedin icon"></a>			
+		<a href="mailto:cesjr02@gmail.com"><img src="images/contact/email.png" class="img-responsive" alt="email icon"></a>
+		<a href="https://twitter.com/cesheets"><img src="images/contact/twitter.png" class="img-responsive" alt="twitter icon"></a>
+		<a href="http://www.linkedin.com/pub/charles-sheets-jr/69/365/2b3"><img src="images/contact/linkedin.png" class="img-responsive" alt="linkedin icon"></a>			
 	</div><!-- end of contact -->	
 		
 	<?php include("inc/footer.php"); ?>                                                                           
