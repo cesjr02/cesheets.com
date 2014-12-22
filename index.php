@@ -72,13 +72,13 @@
 			<div id="portfolioText" class="col-md-12">
 				<h2>Featured Work</h2>
 				<p>
-					Please take a moment to download and browse my portfolio samples. Shown are examples of marketing, branding, dynamic web applications, mobile optimized websites and responsive design.
+					Please take a moment to download and browse my portfolio samples. Here you will find examples of branding, dynamic web applications, mobile optimized websites and responsive design.
 				</p>
 				<h4>ROLE</h4>
 				<p>Web Designer/Developer</p>
 				<h4>TOOLS</h4>
 				<p>HTML/CSS, XML, PHP, JavaScript, Adobe Photoshop & Illustrator</p>
-				<a href="sheetsc_pdf_portfolio.pdf" class="primary_btn">Download PDF</a>
+				<a href="portfolio.pdf" class="primary_btn">Download PDF</a>
 			</div><!-- end of featuredText div -->
 				
 		</div><!-- end of featured container -->
