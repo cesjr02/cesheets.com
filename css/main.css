@@ -201,3 +201,9 @@ nav a:hover {
 	  display: none;
   }
 }
+
+@media (max-width: 444px) {
+  #contact img {
+	  width: 112px;
+  }
+}
