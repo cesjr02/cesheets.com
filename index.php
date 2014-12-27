@@ -77,7 +77,7 @@
 				<h4>ROLE</h4>
 				<p>Web Designer/Developer</p>
 				<h4>TOOLS</h4>
-				<p>HTML/CSS, XML, PHP, JavaScript, Adobe Photoshop & Illustrator</p>
+				<p>HTML/CSS, XML, PHP, JavaScript, Photoshop & Illustrator</p>
 				<a href="portfolio.pdf" class="primary_btn">Download PDF</a>
 			</div><!-- end of featuredText div -->
 				
