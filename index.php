@@ -39,7 +39,7 @@
 			<p>
 				Hello, welcome to my world. Here, you'll be able to explore my qualifications, browse my portfolio, and gain 						insight into my creative process. This website serves as a means to spark employer interest and collaborate 						with other graphic designers and web developers.
 			</p>
-			<a href="sheetsc_resume.pdf" class="secondary_btn">View Resume</a>
+			<a href="resume.pdf" class="secondary_btn">View Resume</a>
 		</div>
 	</header>
 	
