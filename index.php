@@ -55,7 +55,7 @@
 			<!--<img src="images/icons/dynamic-web-icon.png" class="icon" alt="dynamic web app icon">-->
 			<h3><span class="fa fa-code"></span> Dynamic Web Apps</h3>
 			<p>
-				Using the LAMP framework (Linux, Apache, MySQL, and PHP), in combination with JavaScript, Ajax, CSS, and HTML5 to 					develop robust online programs.
+				Using the LAMP framework (Linux, Apache, MySQL, and PHP), in combination with JavaScript, Ajax, XML, CSS, and HTML5 to 					develop robust online programs.
 			</p>
 		</div>
 		<div class="col-md-4">
@@ -72,7 +72,7 @@
 			<div id="portfolioText" class="col-md-12">
 				<h2>Featured Work</h2>
 				<p>
-					Please take a moment to download and browse my portfolio samples. Here you will find examples of branding, dynamic web applications, mobile optimized websites and responsive design.
+					Please take a moment to download and browse my portfolio samples. Here you will find examples of branding, dynamic web applications, applications built using XML, mobile optimized websites and responsive design.
 				</p>
 				<h4>ROLE</h4>
 				<p>Web Designer/Developer</p>
