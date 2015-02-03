@@ -193,13 +193,6 @@ nav a:hover {
 }
 
 
-/* media query to hide featured image */
-@media (max-width: 991px) {
-  #featuredImage {
-	  display: none;
-  }
-}
-
 @media (max-width: 767px) {
   .secondary_btn {
 	  display: none;
