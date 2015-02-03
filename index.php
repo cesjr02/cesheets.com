@@ -34,7 +34,7 @@
 			</nav>
 		</div><!-- header container -->
 		<div class="container" id="headerContent">
-		<img src="images/logo.png" alt="Logo">
+		<img src="images/logo.png" alt="Logo" width="37" height="36">
 			<h1>Welcome.</h1>
 			<p>
 				Hello, welcome to my world. Here, you'll be able to explore my qualifications, browse my portfolio, and gain 						insight into my creative process. This website serves as a means to spark employer interest and collaborate 						with other graphic designers and web developers.
@@ -108,9 +108,9 @@
 	<div id="contact" class="container">
 		<h1 class="contact">Contact.</h1>
 		<p>Want to know more? I'd love to hear from you.</p>
-		<a href="mailto:cesjr02@gmail.com"><img src="images/contact/email.png" class="hover" alt="email icon"></a>
-		<a href="https://twitter.com/cesheets"><img src="images/contact/twitter.png" class="hover" alt="twitter icon"></a>
-		<a href="http://www.linkedin.com/pub/charles-sheets-jr/69/365/2b3"><img src="images/contact/linkedin.png" class="hover" alt="linkedin icon"></a>			
+		<a href="mailto:cesjr02@gmail.com"><img src="images/contact/email.png" class="hover" alt="email icon" width="128" height="128"></a>
+		<a href="https://twitter.com/cesheets"><img src="images/contact/twitter.png" class="hover" alt="twitter icon" width="128" height="128"></a>
+		<a href="http://www.linkedin.com/pub/charles-sheets-jr/69/365/2b3"><img src="images/contact/linkedin.png" class="hover" alt="linkedin icon" width="128" height="128"></a>			
 	</div><!-- end of contact -->	
 		
 	<?php include("inc/footer.php"); ?>                                                                           
