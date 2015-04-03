@@ -199,8 +199,10 @@ nav a:hover {
   }
 }
 
+
 @media (max-width: 444px) {
   #contact img {
 	  width: 112px;
+	  height: 112px;
   }
 }
