@@ -36,9 +36,7 @@
 		<div class="container" id="headerContent">
 		<img src="images/logo.png" alt="Logo" width="37" height="36">
 			<h1>Welcome.</h1>
-			<p>
-				Hello, welcome to my world. Here, you'll be able to explore my qualifications, browse my portfolio, and gain 						insight into my creative process. This website serves as a means to spark employer interest and collaborate 						with other graphic designers and web developers.
-			</p>
+			<p>Hello, welcome to my world. Here, you'll be able to explore my qualifications, browse my portfolio, and gain insight into my creative process. This website serves as a means to spark employer interest and collaborate with other professionals.</p>
 			<a href="resume.pdf" class="secondary_btn">View Resume</a>
 		</div>
 	</header>
@@ -47,23 +45,17 @@
 		<div class="col-md-4">
 			<!--<img src="images/icons/web-design-icon.png" class="icon" alt="web design icon">-->
 			<h3><span class="fa fa-pencil"></span> Web Design</h3>
-			<p>
-			Understanding the needs of the client and target market I use the latest design trends and best user interface techniques 			to create beautiful and functional designs.
-			</p>
+			<p>Understanding the needs of the client and target market, I utilize the latest design trends and best user interface techniques to create beautiful and functional designs.</p>
 		</div>
 		<div class="col-md-4">
 			<!--<img src="images/icons/dynamic-web-icon.png" class="icon" alt="dynamic web app icon">-->
 			<h3><span class="fa fa-code"></span> Dynamic Web Apps</h3>
-			<p>
-				Using the LAMP framework (Linux, Apache, MySQL, and PHP), in combination with JavaScript, Ajax, XML, CSS, and HTML5 to 					develop robust online programs.
-			</p>
+			<p>Using the LAMP framework (Linux, Apache, MySQL, and PHP), in combination with JavaScript, Ajax, XML, CSS, and HTML5 to 					develop robust online programs.</p>
 		</div>
 		<div class="col-md-4">
 			<!--<img src="images/icons/mobile-dev-icon.png" class="icon" alt="mobile web development icon">-->
 			<h3><span class="fa fa-gears"></span> Mobile Development</h3>
-			<p>
-				Utilizing the HTML5-based jQuery Mobile framework to quickly create touch-friendly websites that are accessible on 					all smartphone, tablet and desktop devices.
-			</p>
+			<p>Utilizing the HTML5-based jQuery Mobile framework to quickly create touch-friendly websites that are accessible on 					all smartphone, tablet and desktop devices.</p>
 		</div>	
 	</section><!-- end of skills section -->
 	
@@ -71,9 +63,7 @@
 		<div class="container">
 			<div id="portfolioText" class="col-md-12">
 				<h2>Featured Work</h2>
-				<p>
-					Please take a moment to download and browse my portfolio samples. Here you will find examples of branding, dynamic web applications, applications built using XML, mobile optimized websites and responsive design.
-				</p>
+				<p>Please take a moment to download and browse my portfolio samples. Here you will find examples of branding, dynamic web applications, applications built using XML, mobile optimized websites and responsive design.</p>
 				<h4>ROLE</h4>
 				<p>Web Designer/Developer</p>
 				<h4>TOOLS</h4>
@@ -89,16 +79,12 @@
 			<div class="col-md-6">
 			<!--<img src="images/icons/education-icon.png" class="icon" alt="education icon">-->
 			<h3><span class="fa fa-graduation-cap"></span> Education</h3>
-			<p>
-			I earned my Associate of Applied Science degree and Web Design certificate at Western Technical College in La Crosse, WI. In 2013 I decided to further my education. I'm currently studying online to earn a Web Technologies Certificate at Harvard Extension School, Cambridge, MA.
-			</p>
+			<p>I earned my Associate of Applied Science degree and Web Design certificate at Western Technical College in La Crosse, WI. In 2013 I decided to further my education. I'm currently studying online to earn a Web Technologies Certificate at Harvard Extension School, Cambridge, MA.</p>
 		</div>
 		<div class="col-md-6">
 			<!--<img src="images/icons/experience-icon.png" class="icon" alt="experience icon">-->
 			<h3><span class="fa fa-line-chart"></span> Experience</h3>
-			<p>
-			My background is in graphic design and web development. I enjoy using both to compliment the websites and dynamic web applications I create. As a freelancer I became proficient while working with clients and gained the knowledge to execute projects from start to finish.
-			</p>
+			<p>My background is in graphic design and web development. I enjoy using both to compliment the websites and dynamic web applications I create. As a freelancer I became proficient while working with clients and gained the knowledge to execute projects from start to finish.</p>
 		</div>
 		</div><!--end of about container -->
 	</section><!-- end of about section -->	
