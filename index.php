@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Charles Sheets Jr.</title>
+	<title>CJ Sheets</title>
 	<?php include("inc/head.php"); ?>
 </head>
 <body>
