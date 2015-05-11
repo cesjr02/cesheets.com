@@ -37,7 +37,7 @@
 		<img src="images/logo.png" alt="Logo" width="37" height="36">
 			<h1>Welcome.</h1>
 			<p>Hello, welcome to my world. Here, you'll be able to explore my qualifications, browse my portfolio, and gain insight into my creative process. This website serves as a means to spark employer interest and collaborate with other professionals.</p>
-			<a href="resume.pdf" class="secondary_btn">View Resume</a>
+			<a href="resume.pdf" id="resumeButtonHide" class="secondary_btn">View Resume</a>
 		</div>
 	</header>
 	
@@ -69,6 +69,7 @@
 				<h4>TOOLS</h4>
 				<p>HTML/CSS, XML, PHP, JavaScript, Photoshop & Illustrator</p>
 				<a href="portfolio.pdf" class="primary_btn">Download PDF</a>
+				<a href="resume.pdf" id="resumeButtonShow" class="secondary_btn">View Resume</a>
 			</div><!-- end of featuredText div -->
 				
 		</div><!-- end of featured container -->
