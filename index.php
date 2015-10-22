@@ -17,7 +17,7 @@
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
-		</button>                          
+		</button>
 		</div>
 			<nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
 				<ul class="nav navbar-nav navbar-right">
@@ -29,18 +29,18 @@
 					</li>
 					<li>
 					    <a href="#" id="contactScroll">Contact</a>
-					</li>                                
-				</ul>	          	      
+					</li>
+				</ul>
 			</nav>
 		</div><!-- header container -->
 		<div class="container" id="headerContent">
 		<img src="images/logo.png" alt="Logo" width="37" height="36">
 			<h1>Welcome.</h1>
 			<p>Hello, welcome to my world. Here, you'll be able to explore my qualifications, browse my portfolio, and gain insight into my creative process. This website serves as a means to spark employer interest and collaborate with other professionals.</p>
-			<a href="resume.pdf" id="resumeButtonHide" class="secondary_btn">View Resume</a>
+			<a href="resume.php" id="resumeButtonHide" class="secondary_btn">View Resume</a>
 		</div>
 	</header>
-	
+
 	<section id="skills" class="container">
 		<div class="col-md-4">
 			<!--<img src="images/icons/web-design-icon.png" class="icon" alt="web design icon">-->
@@ -56,9 +56,9 @@
 			<!--<img src="images/icons/mobile-dev-icon.png" class="icon" alt="mobile web development icon">-->
 			<h3><span class="fa fa-gears"></span> Mobile Development</h3>
 			<p>Utilizing the HTML5-based jQuery Mobile framework to quickly create touch-friendly websites that are accessible on 					all smartphone, tablet and desktop devices.</p>
-		</div>	
+		</div>
 	</section><!-- end of skills section -->
-	
+
 	<section id="portfolio">
 		<div class="container">
 			<div id="portfolioText" class="col-md-12">
@@ -69,12 +69,12 @@
 				<h4>TOOLS</h4>
 				<p>HTML/CSS, XML, PHP, JavaScript, Photoshop & Illustrator</p>
 				<a href="portfolio.pdf" class="primary_btn">Download PDF</a>
-				<a href="resume.pdf" id="resumeButtonShow" class="secondary_btn">View Resume</a>
+				<a href="resume.php" id="resumeButtonShow" class="secondary_btn">View Resume</a>
 			</div><!-- end of featuredText div -->
-				
+
 		</div><!-- end of featured container -->
 	</section><!-- end of featured section -->
-	
+
 	<section id="about">
 		<div class="container">
 			<div class="col-md-6">
@@ -88,19 +88,19 @@
 			<p>My background is in graphic design and web development. I enjoy using both to compliment the websites and dynamic web applications I create. As a freelancer I became proficient while working with clients and gained the knowledge to execute projects from start to finish.</p>
 		</div>
 		</div><!--end of about container -->
-	</section><!-- end of about section -->	
-	
-	
-	
+	</section><!-- end of about section -->
+
+
+
 	<div id="contact" class="container">
 		<h1 class="contact">Contact.</h1>
 		<p>Want to know more? I'd love to hear from you.</p>
 		<a href="mailto:cesjr02@gmail.com"><img src="images/contact/email.png" class="hover" alt="email icon" width="128" height="128"></a>
 		<a href="https://twitter.com/cesheets"><img src="images/contact/twitter.png" class="hover" alt="twitter icon" width="128" height="128"></a>
-		<a href="http://www.linkedin.com/pub/charles-sheets-jr/69/365/2b3"><img src="images/contact/linkedin.png" class="hover" alt="linkedin icon" width="128" height="128"></a>			
-	</div><!-- end of contact -->	
-		
-	<?php include("inc/footer.php"); ?>                                                                           
+		<a href="http://www.linkedin.com/pub/charles-sheets-jr/69/365/2b3"><img src="images/contact/linkedin.png" class="hover" alt="linkedin icon" width="128" height="128"></a>
+	</div><!-- end of contact -->
+
+	<?php include("inc/footer.php"); ?>
 
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
