@@ -1,27 +1,26 @@
-*, *:before, *:after {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
 /* Link going back to main index. Also provides space at bottom of the page */
 #return {
   position: absolute;
   top: 0;
   left: 0;
+  font-family: 'Source Sans Pro', Helvetica;
   font-size: 20px;
-  font-size: 2.0rem;
   padding: 3px;
 }
 body {
-  font-family: Helvetica;
   background-color: white;
-  margin: 0;
   height: 100%;
+  font-family: Merriweather, serif;
+  font-size: 20px;
+  line-height: 1.7em;
+  padding-top: 50px;
+  max-width: 960px;
+  width: 90%;
+  min-width: 300px;
+  margin: auto;
 }
 html {
   height: 100%;
-  font-size: 62.5%;
-  /* base 10 */
 }
 a,
 a:link,
@@ -37,7 +36,7 @@ h1 {
   color: '#333333';
   font-size: 50px;
   margin-bottom: 10px;
-  margin-top: 0px;
+  margin-top: 15px;
 }
 h2 {
   font-family: 'Source Sans Pro', Helvetica;
@@ -46,76 +45,46 @@ h2 {
   font-size: 30px;
   letter-spacing: normal;
   line-height: 33px;
+  margin-top: 25px;
   color: '#5b5b5b';
 }
-section {
-  font-family: Merriweather, serif;
-  line-height: 33px;
-  font-size: 22px;
-  font-size: 2.2rem;
-  font-weight: normal;
-  color: #333332;
-}
-body {
-  padding-top: 50px;
-  max-width: 960px;
-  width: 90%;
-  min-width: 300px;
-  margin: auto;
-}
-body .date {
+
+.date {
   float: right;
 }
-body h1, body h2 {
+h1, body h2 {
   text-align: center;
 }
-body h3 {
+h3 {
   color: '#333333';
-  margin-bottom: 25px;
-  margin-top: 65px;
+  margin-bottom: 30px;
+  margin-top: 68px;
   font-family: 'Source Sans Pro', Helvetica;
   font-size: 35px;
-  font-size: 3.5rem;
   text-align: center;
 }
-body #tagline {
-  font-size: 20px;
-  font-size: 2.0rem;
+#tagline {
+  font-family: 'Source Sans Pro', Helvetica;
+  text-align: center;
   margin-top: 10px;
   font-style: italic;
 }
-body .title {
+.title {
   font-weight: bold;
 }
-body .item-heading {
+.item-heading {
   font-family: 'Source Sans Pro', Helvetica;
+  font-size: 20px;
   border-bottom: 1px solid #e4e4e4;
 }
-body .role {
+.role {
   font-style: italic;
 }
-body ul {
+ul {
   margin-top: 0;
 }
-body section {
-  margin-top: 0;
-  margin-bottom: 25px;
-  font-family: Merriweather, serif;
-  font-size: 20px;
-  font-size: 2.0rem;
-}
-@media only screen and (max-width: 750px) {
-  body .date {
-    float: none;
-    display: block;
-  }
-  body ul {
-    padding-left: 20px;
-  }
-  body #tagline {
-    text-align: left;
-  }
-}
+
+
 @media print {
   #return {
     display: none;
@@ -123,31 +92,25 @@ body section {
   body {
     padding-top: 0;
   }
-  body #talks .item-heading {
-    margin-top: 10px;
-  }
-  body h1 {
+  h1 {
     font-size: 35px;
-    font-size: 3.5rem;
+    margin: 0;
+    margin-top: 40px;
+  }
+  #tagline {
     margin: 0;
   }
-  body #tagline {
-    margin: 0;
-  }
-  body h2 {
+  h2 {
     margin: 0;
     font-size: 20px;
-    font-size: 2.0rem;
   }
-  body h3 {
-    font-size: 30px;
-    font-size: 3.0rem;
+  h3 {
+    font-size: 22px;
     margin-bottom: 5px;
     margin-top: 35px;
   }
-  body section {
+  div {
     font-size: 15px;
-    font-size: 1.5rem;
     margin-bottom: 0;
   }
 }

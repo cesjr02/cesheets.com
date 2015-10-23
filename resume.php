@@ -8,8 +8,6 @@
 
 	<link rel="stylesheet" href="css/resume.css" type="text/css">
 
-	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-
 	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
 
 	<!-- icons -->
@@ -34,46 +32,42 @@
 
 	<h2>cj@cesheets.com</h2>
 
-	<h2 id='tagline'>
+	<div id='tagline'>
 		Web Programmer and designer with over 8 years of experience.
-	</h2>
-
-
+	</div>
 
 	<h3>
 		Expertise
 	</h3>
 
 
-	<section>
 		<div class='description'>
 				<p>Website design and development, user experience, search engine optimization, graphic design and typography.</p>
 		</div>
-	</section>
+
 
 	<h3>
 		Experience
 	</h3>
 	<!-- IRIS -->
-	<section>
+
 		<div class='item-heading'>
-			<div class='title'>IRIS Program; Holmen, WI</title>
-			<span class='date'>2009-Present</div>
+			<div class='title'>IRIS Program; Holmen, WI
+			<span class='date'>2009-Present</span></div>
 		</div>
 
 		<div class='role'>
 			Caregiver
 		</div>
-		<p>In-home care for an immediate family member. More information available upon request.
-</p>
-	</section>
+		<div>
+			<p>In-home care for an immediate family member. More information available upon request.</p>
+		</div>
 
 
 	<!-- Freelance -->
-	<section>
 		<div class='item-heading'>
-			<div class='title'>Web Design &#38; Development</title>
-			<span class='date'>2008-Present</div>
+			<div class='title'>Web Design &#38; Development
+			<span class='date'>2008-Present</span></div>
 		</div>
 
 		<div class='role'>
@@ -85,7 +79,6 @@
 				Designed, developed, and maintained client websites. Collaborated with designers and developers on many different projects utilizing the git version control system. Established working relationships with clients and businesses. Demonstrated clear understanding of HTML, CSS, XML, JavaScript and Content Management Systems. Conceived marketing strategies and brand identity.
 			</p>
 		</div>
-	</section>
 
 
 	<!-- Education -->
@@ -93,10 +86,9 @@
 		Education
 	</h3>
 	<!-- HES -->
-	<section>
 		<div class='item-heading'>
-			<div class='title'>Harvard Extension School - Cambridge, MA</title>
-			<span class='date'>2013-Present</div>
+			<div class='title'>Harvard Extension School - Cambridge, MA
+			<span class='date'>2013-Present</span></div>
 		</div>
 
 		<div class='role'>
@@ -108,15 +100,11 @@
 				<li>Professional Graduate Certificate</li>
 			</ul>
 		</div>
-	</section>
-
-
 
 	<!-- WTC -->
-	<section>
 		<div class='item-heading'>
-			<div class='title'>Western Technical College - La Crosse, WI</title>
-			<span class='date'>2007-2009</div>
+			<div class='title'>Western Technical College - La Crosse, WI
+			<span class='date'>2007-2009</span></div>
 		</div>
 
 		<div class='role'>
@@ -130,37 +118,28 @@
 			</ul>
 		</div>
 
-	</section>
-
 	<h3>
 	Skills
 	</h3>
 
-	<section>
 		<div class='description'>
 				<p>
 					Managed projects including; website development, redesigns, web content updates, marketing, advertising and company branding. Optimized websites using search engine optimization techniques. Met with clients to discuss needs and project requirements. Organized projects and delegated specific tasks when working with others. Demonstrated strong typography design skills.
 				</p>
 		</div>
-	</section>
-
-
 
 
 	<h3>
 	Software
 	</h3>
 
-	<section>
 		<div class='description'>
 				<p>
 					Proficient with various text editors, command line, git version control, Photoshop, Illustrator and Acrobat. I have experience with Mac and PC platforms, including Mac OS X and Windows. Current with social media platforms and trends.
 				</p>
 		</div>
-	</section>
 
-
-	&nbsp;
+		&nbsp;
 
 
 </body>
