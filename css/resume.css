@@ -1,10 +1,10 @@
-/* Link going back to main index. Also provides space at bottom of the page */
+/* Link going back to main index. */
 #return {
   position: absolute;
   top: 0;
   left: 0;
   font-family: 'Source Sans Pro', Helvetica;
-  font-size: 20px;
+  font-size: 18px;
   padding: 3px;
 }
 body {
