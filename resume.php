@@ -87,7 +87,7 @@
 	</h3>
 	<!-- HES -->
 		<div class='item-heading'>
-			<div class='title'>Harvard Extension School - Cambridge, MA
+			<div class='title'>Harvard Extension School<br />Cambridge, MA
 			<span class='date'>2013-Present</span></div>
 		</div>
 
@@ -103,7 +103,7 @@
 
 	<!-- WTC -->
 		<div class='item-heading'>
-			<div class='title'>Western Technical College - La Crosse, WI
+			<div class='title'>Western Technical College<br />La Crosse, WI
 			<span class='date'>2007-2009</span></div>
 		</div>
 
