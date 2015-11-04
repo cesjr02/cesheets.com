@@ -24,7 +24,7 @@
 <body id='resume'>
 
 	<div id='return'>
-		<a href='index.php'>&larr; cesheets.com</a> |
+		<a href='index.php'>&larr; Return</a> |
 		<a href='javascript:void(0);' onClick='window.print()'>Print</a>
 	</div>
 
