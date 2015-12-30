@@ -42,7 +42,7 @@
 
 
 		<div class='description'>
-				<p>Website design and development, user experience, search engine optimization, graphic design and typography.</p>
+				<p>Front and backend web development, user experience, search engine optimization, graphic design and typography.</p>
 		</div>
 
 
@@ -88,7 +88,7 @@
 	<!-- HES -->
 		<div class='item-heading'>
 			<div class='title'>Harvard Extension School<br />Cambridge, MA
-			<span class='date'>2013-Present</span></div>
+			<span class='date'>2013-2015</span></div>
 		</div>
 
 		<div class='role'>
@@ -135,7 +135,7 @@
 
 		<div class='description'>
 				<p>
-					Proficient with various text editors, command line, git version control, Photoshop, Illustrator and Acrobat. I have experience with Mac and PC platforms, including Mac OS X and Windows. Current with social media platforms and trends.
+					Proficient with various text editors, command line, git version control, Photoshop, Illustrator and Acrobat. Experience with Mac and PC platforms, including Mac OS X and Windows. Current with social media trends.
 				</p>
 		</div>
 
