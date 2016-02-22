@@ -80,7 +80,7 @@
 			<div class="col-md-6">
 			<!--<img src="images/icons/education-icon.png" class="icon" alt="education icon">-->
 			<h3><span class="fa fa-graduation-cap"></span> Education</h3>
-			<p>I earned my Associate of Applied Science degree and Web Design certificate at Western Technical College in La Crosse, WI. In 2013 I decided to further my education. At the start of 2016 I earn a Web Technologies Certificate at Harvard's Extension School, Cambridge, MA.</p>
+			<p>I earned my Associate of Applied Science degree and Web Design certificate at Western Technical College in La Crosse, WI. In 2013 I decided to further my education. At the beginning of 2016 I earn my Web Technologies Certificate at Harvard's Extension School, Cambridge, MA.</p>
 		</div>
 		<div class="col-md-6">
 			<!--<img src="images/icons/experience-icon.png" class="icon" alt="experience icon">-->
