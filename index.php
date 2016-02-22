@@ -67,7 +67,7 @@
 				<h4>ROLE</h4>
 				<p>Web Designer/Developer</p>
 				<h4>TOOLS</h4>
-				<p>HTML/CSS, XML, PHP, JavaScript, Photoshop & Illustrator</p>
+				<p>HTML/CSS, XML, PHP, JavaScript, Photoshop &amp; Illustrator</p>
 				<a href="portfolio.pdf" class="primary_btn">Download PDF</a>
 				<a href="resume.php" id="resumeButtonShow" class="secondary_btn">View Resume</a>
 			</div><!-- end of featuredText div -->
@@ -80,7 +80,7 @@
 			<div class="col-md-6">
 			<!--<img src="images/icons/education-icon.png" class="icon" alt="education icon">-->
 			<h3><span class="fa fa-graduation-cap"></span> Education</h3>
-			<p>I earned my Associate of Applied Science degree and Web Design certificate at Western Technical College in La Crosse, WI. In 2013 I decided to further my education. I'm currently studying online to earn a Web Technologies Certificate at Harvard Extension School, Cambridge, MA.</p>
+			<p>I earned my Associate of Applied Science degree and Web Design certificate at Western Technical College in La Crosse, WI. In 2013 I decided to further my education. At the start of 2016 I earn a Web Technologies Certificate at Harvard's Extension School, Cambridge, MA.</p>
 		</div>
 		<div class="col-md-6">
 			<!--<img src="images/icons/experience-icon.png" class="icon" alt="experience icon">-->
