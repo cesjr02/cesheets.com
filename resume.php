@@ -30,7 +30,7 @@
 
 	<h1>Charles Sheets Jr</h1>
 
-	<h2>cj@cesheets.com</h2>
+	<h2>cesjr02@gmail.com</h2>
 
 	<div id='tagline'>
 		Web Programmer and designer with over 8 years of experience.
@@ -53,7 +53,7 @@
 
 		<div class='item-heading'>
 			<div class='title'>IRIS Program; Holmen, WI
-			<span class='date'>2009-Present</span></div>
+			<span class='date'>2009&ndash;Current</span></div>
 		</div>
 
 		<div class='role'>
@@ -66,12 +66,12 @@
 
 	<!-- Freelance -->
 		<div class='item-heading'>
-			<div class='title'>Web Design &#38; Development
-			<span class='date'>2008-Present</span></div>
+			<div class='title'>Web Design &amp; Development
+			<span class='date'>2008&ndash;2015</span></div>
 		</div>
 
 		<div class='role'>
-			Freelance Web Programmer &#38; Designer
+			Freelance Web Programmer &amp; Designer
 		</div>
 
 		<div class='description'>
@@ -88,7 +88,7 @@
 	<!-- HES -->
 		<div class='item-heading'>
 			<div class='title'>Harvard Extension School<br />Cambridge, MA
-			<span class='date'>2013-2015</span></div>
+			<span class='date'>2013&ndash;2015</span></div>
 		</div>
 
 		<div class='role'>
@@ -104,7 +104,7 @@
 	<!-- WTC -->
 		<div class='item-heading'>
 			<div class='title'>Western Technical College<br />La Crosse, WI
-			<span class='date'>2007-2009</span></div>
+			<span class='date'>2007&ndash;2009</span></div>
 		</div>
 
 		<div class='role'>

@@ -50,12 +50,12 @@
 		<div class="col-md-4">
 			<!--<img src="images/icons/dynamic-web-icon.png" class="icon" alt="dynamic web app icon">-->
 			<h3><span class="fa fa-code"></span> Dynamic Web Apps</h3>
-			<p>Using the LAMP framework (Linux, Apache, MySQL, and PHP), in combination with JavaScript, Ajax, XML, CSS, and HTML5 to 					develop robust online programs.</p>
+			<p>Using the LAMP framework (Linux, Apache, MySQL, and PHP), in combination with JavaScript, Ajax, XML, CSS, and HTML5 to develop robust online programs.</p>
 		</div>
 		<div class="col-md-4">
 			<!--<img src="images/icons/mobile-dev-icon.png" class="icon" alt="mobile web development icon">-->
-			<h3><span class="fa fa-gears"></span> Mobile Development</h3>
-			<p>Utilizing the HTML5-based jQuery Mobile framework to quickly create touch-friendly websites that are accessible on 					all smartphone, tablet and desktop devices.</p>
+			<h3><span class="fa fa-gears"></span> User Experience</h3>
+			<p>Utilizing personas, user stories, interviews, sketches, mockups, and user testing, I'm able to userstand the needs of the user and create a solid user experience.</p>
 		</div>
 	</section><!-- end of skills section -->
 
