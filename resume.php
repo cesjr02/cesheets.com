@@ -34,7 +34,9 @@
 	<h2>cesjr02@gmail.com</h2>
 
 	<div id='tagline'>
-		“Web Development and User Experience combine my two favorite interests; computer science and human psychology. I enjoy problem solving and creating solutions that fulfill a particular need.”
+		<p>
+			"Web Development and User Experience combine my two favorite interests; computer science and human psychology. I enjoy problem solving and creating solutions that fulfill a particular need."
+		</p>
 	</div>
 
 	<h3>
