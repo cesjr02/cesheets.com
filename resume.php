@@ -25,7 +25,8 @@
 
 	<div id='return'>
 		<a href='index.php'>&larr; Return</a> |
-		<a href='javascript:void(0);' onClick='window.print()'>Print</a>
+		<a href='javascript:void(0);' onClick='window.print()'>Print</a> |
+		<a href='resume.pdf'> Download PDF</a>
 	</div>
 
 	<h1>Charles Sheets Jr</h1>
@@ -33,27 +34,37 @@
 	<h2>cesjr02@gmail.com</h2>
 
 	<div id='tagline'>
-		Web Programmer and designer with over 8 years of experience.
+		“Web Development and User Experience combine my two favorite interests; computer science and human psychology. I enjoy problem solving and creating solutions that fulfill a particular need.”
 	</div>
 
 	<h3>
-		Expertise
+		Professional Profile
 	</h3>
 
 
 		<div class='description'>
-				<p>Front and backend web development, user experience, search engine optimization, graphic design and typography.</p>
+				<p>	
+					Driven professional with a diverse technical skill set. Able to work well independently or in group environments where organization and communication is key. Thrives under pressure while maintaining the focus needed to meet or beat project deadlines. Ability to develop and maintain co-worker and client working relationships. Continually learning about new technologies, standards, and social media trends.
+				</p>
+
+				<p>
+					<i>Skills Include:</i>
+					<br />
+					User Experience Engineering / Mock-up testing / Website Design / Front &amp; Backend Web Development / Graphic Design &amp; Typography
+				</p>
+
+				
 		</div>
 
 
 	<h3>
-		Experience
+		Career Development
 	</h3>
 	<!-- IRIS -->
 
 		<div class='item-heading'>
 			<div class='title'>IRIS Program; Holmen, WI
-			<span class='date'>2009&ndash;Current</span></div>
+			<span class='date'>2009&ndash;2016</span></div>
 		</div>
 
 		<div class='role'>
@@ -119,25 +130,39 @@
 		</div>
 
 	<h3>
-	Skills
+	Technical Skills
 	</h3>
 
 		<div class='description'>
 				<p>
-					Managed projects including; website development, redesigns, web content updates, marketing, advertising and company branding. Optimized websites using search engine optimization techniques. Met with clients to discuss needs and project requirements. Organized projects and delegated specific tasks when working with others. Demonstrated strong typography design skills.
+					Web Programming:<br />
+					HTML, CSS, XML, JavaScript
 				</p>
 		</div>
-
-
-	<h3>
-	Software
-	</h3>
 
 		<div class='description'>
 				<p>
-					Proficient with various text editors, command line, git version control, Photoshop, Illustrator and Acrobat. Experience with Mac and PC platforms, including Mac OS X and Windows. Current with social media trends.
+					Database:<br />
+					MySQL
 				</p>
 		</div>
+
+		<div class='description'>
+				<p>
+					Software:<br />
+					Various text editors, command line, git version control, LAMP, FTP clients, Wordpress, Photoshop, Illustrator, Acrobat
+				</p>
+		</div>
+
+		<div class='description'>
+				<p>
+					Operating Systems:<br />
+					Windows, Mac OS X
+				</p>
+		</div>
+
+
+	
 
 		&nbsp;
 
