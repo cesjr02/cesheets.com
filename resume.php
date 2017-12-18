@@ -35,7 +35,9 @@
 
 	<div id='tagline'>
 		<p>
-			"Web Development and User Experience combine my two favorite interests; computer science and human psychology. I enjoy problem solving and creating solutions that fulfill a particular need."
+			“Web Development and User Experience combine my two primary interests;
+			computer science, and human psychology. I enjoy problem solving and creating
+			solutions that fulfill a particular need.”
 		</p>
 	</div>
 
@@ -46,13 +48,20 @@
 
 		<div class='description'>
 				<p>	
-					Driven professional with a diverse technical skill set. Able to work well independently or in group environments where organization and communication is key. Thrives under pressure while maintaining the focus needed to meet or beat project deadlines. Ability to develop and maintain co-worker and client working relationships. Continually learning about new technologies, standards, and social media trends.
+					Driven professional with a diverse technical skillset. Able
+					to work equally well in independently or group
+					environments where organization and communication is
+					essential. Thrives under pressure while maintaining the
+					focus needed to meet project deadlines. Ability to
+					develop and maintain co-worker and client working
+					relationships. Continually learning about new
+					technologies, standards, and social media trends.
 				</p>
 
 				<p>
-					<i>Skills Include:</i>
+					<i>Skillset:</i>
 					<br />
-					User Experience Engineering / Mock-up testing / Website Design / Front &amp; Backend Web Development / Graphic Design &amp; Typography
+					User Experience Engineering, Mock-up testing, Website Design, Front &amp; Backend Web Development, Graphic Design &amp; Typography
 				</p>
 
 				
@@ -73,7 +82,7 @@
 			Caregiver
 		</div>
 		<div>
-			<p>In-home care for an immediate family member. More information available upon request.</p>
+			<p>In-home caregiver for an immediate family member. More information available upon request.</p>
 		</div>
 
 
