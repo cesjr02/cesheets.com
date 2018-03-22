@@ -97,7 +97,7 @@
 		<p>Want to know more? I'd love to hear from you.</p>
 		<a href="mailto:cesjr02@gmail.com"><img src="images/contact/email.png" class="hover" alt="email icon" width="128" height="128"></a>
 		<a href="https://twitter.com/cesheets"><img src="images/contact/twitter.png" class="hover" alt="twitter icon" width="128" height="128"></a>
-		<a href="http://www.linkedin.com/pub/charles-sheets-jr/69/365/2b3"><img src="images/contact/linkedin.png" class="hover" alt="linkedin icon" width="128" height="128"></a>
+		<a href="http://www.linkedin.com/in/charles-sheets-jr/"><img src="images/contact/linkedin.png" class="hover" alt="linkedin icon" width="128" height="128"></a>
 	</div><!-- end of contact -->
 
 	<?php include("inc/footer.php"); ?>
