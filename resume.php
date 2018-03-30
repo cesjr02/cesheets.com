@@ -248,7 +248,7 @@
 	<!-- Music Management Application - User Experience -->
 	<h4>Music Management Application - User Experience</h4>
 	<p class="project-desc">College course final project, Harvard University Extension School, Cambridge, MA</p>
-	<div class="project-link"><a href="https://youtu.be/0kWhbWPDLKA">https://youtu.be/0kWhbWPDLKA</a></div>
+	<div class="project-link"><a href="https://youtu.be/0kWhbWPDLKA">youtu.be/0kWhbWPDLKA</a></div>
 
 	<div class="indent">
 		<p>
@@ -264,7 +264,7 @@
 
 	<!-- Additional Information -->
 	<h3>Additional Information</h3>
-	<p><b>Portfolio:</b> Creative portfolio and related information can be viewed at <a href="http://cesheets.com/portfolio.pdf">cesheets.com</a></p>
+	<p><b>Portfolio:</b> Professional portfolio and related information can be viewed at <a href="http://cesheets.com/portfolio.pdf">cesheets.com</a></p>
 
 	<p>
 		<b>Career note:</b> Managed freelance web design and development activity while providing in-home care for an immediate
