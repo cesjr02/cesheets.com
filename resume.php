@@ -169,7 +169,6 @@
 	</h3>
 	<!-- Heavy Equipment Repair -->
 	<h4>Heavy Equipment Repair, LLC, Holmen, WI</h4>
-	<div class="project-link"><a href="http://heavyequipmentrepair.net">heavyequipmentrepair.net</a></div>
 
 	<div class="indent">
 		<p>
